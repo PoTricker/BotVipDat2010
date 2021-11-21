@@ -16,7 +16,7 @@ module.exports.config = {
 module.exports.languages = {
 	"vi": {
 		"moduleInfo": "☽♆☾%1☽♆☾\n%2\n\n🐳Cách Sử Dụng: %3\n🐳Thuộc Nhóm: %4\n🐳Thời Gian Chờ: %5 Giây(s)\n🐳Quyền Hạn: %6\n\n🍁🍂🍁 Module Code By %7 🍁🍂🍁",
-		"helpAll": '📌Hiện Tại Đang Có %1 Lệnh Có Thể Sử Dụng Trên Bot Này\n🐳Sử Dụng: ꧁%2help Tên Lệnh꧂\nĐể Xem Chi Tiết Cách Sử Dụng"',
+		"helpAll": '📌Hiện Tại Đang Có 992 Lệnh Có Thể Sử Dụng Trên Bot Này\n🐳Sử Dụng: ꧁%2help Tên Lệnh꧂\nĐể Xem Chi Tiết Cách Sử Dụng"',
 		"helpList": '🍁🍁🍁Bot Dương Thành Đạt🍁🍁🍁\n\n%2\n💟Hiện Tại Đang Có 992 lệnh Có Thể Sử Dụng Trên Bot Này\n🦋Hãy reply(Phản Hồi) STT\n🤖Bot Được Điều Hành Bởi Dương Thành Đạt\n📩Mọi Thắc Mắc Liên Hệ Admin Bot\n📱Fb : https://www.facebook.com/DAT.TRICKER.902\n📱Zalo : 113 Or 114 Và 115 Cũng Được\n🔰Dùng %4menu all Để Xem Tất Cả Các Lệnh\n🐳Chúc Bạn Sử Dụng Bot Vui Vẻ🔥',
 		"helpeply": '🍁%1🍁\nSau Đây Là Nhóm Lệnh Của\n🍁%2🍁\n\n%3\n🔥Hãy reply(Phản Hồi) Số Thứ Tự Để Xem Chi Tiết Cách Sử Dụng!',
 		"user": "Người dùng",
